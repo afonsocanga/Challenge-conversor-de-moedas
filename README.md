@@ -110,6 +110,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais de
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por **Seu Nome** — sinta-se à vontade para contribuir ou abrir issues!
+Desenvolvido por **Afonso** — sinta-se à vontade para contribuir ou abrir issues!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
